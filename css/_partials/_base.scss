@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: rgba(0,0,0,.15);
+}
+
+main {
+  width: 95%;
+  margin: 0 auto;
+
+  @media screen and (min-width: 600px){
+    max-width: 24em;
+  }
+}
