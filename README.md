@@ -1,2 +1,2 @@
 # res-placemark
-placemark convertor
+Placemark converter for Ingress (classic) mapping operations
